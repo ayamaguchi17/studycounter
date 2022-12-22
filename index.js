@@ -36,6 +36,7 @@ function reset(){
     // resetBtn.onclick = function reset(){
       count = 0
       entryCount = 0
+      totalCount = 0
       countEl.textContent=0 + " mins"
       saveEl.textContent=0
       totalCountEl.textContent=0
